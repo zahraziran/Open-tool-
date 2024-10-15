@@ -13,3 +13,4 @@ Energy System Specifications: Information on different energy systems deployed, 
 Temporal Coverage: Captures data over a significant period, which is ideal for identifying consumption trends.
 Geographical Context: Specifically focuses on a zone in Rome, allowing for localized analysis and potential replicability in similar urban contexts.
 This dataset is instrumental for research in urban energy management and offers valuable insights into sustainable energy practices through data-driven analysis.![Figure_1_energy_gp](https://github.com/user-attachments/assets/bd9a8b81-bf34-4666-8392-e5e925a0b99b)
+![Figure_2](https://github.com/user-attachments/assets/8a3c0437-d509-4933-81a7-b3c9a29bef62)
