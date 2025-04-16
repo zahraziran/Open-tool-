@@ -1,4 +1,4 @@
-# Open-tool-
+# Open-tool
 Open tool for automated development of renewable energy communities: Artificial Intelligence and Machine Learning techniques for methodological approach
 # Dataset
 This dataset is derived from real-world data and records the energy consumption in a specific area in Rome, Italy. The dataset encompasses various metrics that provide insights into energy usage patterns, helping to inform and optimize energy management strategies.
